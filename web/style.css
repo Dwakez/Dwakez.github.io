@@ -560,7 +560,8 @@ div.pp_default .pp_loaderIcon
 
 #about
 {
-    background-color: rgb(34, 28, 90);    background-repeat: no-repeat;
+    background-color: rgb(34, 28, 90);;
+    background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
     z-index: 7;
@@ -634,7 +635,8 @@ div.pp_default .pp_loaderIcon
 
 #news
 {
-    background-color: rgb(34, 28, 90);    background-repeat: no-repeat;
+    background-color: rgb(34, 28, 90);;
+    background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     z-index: 6;
@@ -743,7 +745,8 @@ div.pp_default .pp_loaderIcon
 
 #video
 {
-    background-color: rgb(34, 28, 90);    background-repeat: repeat-x;
+    background-color: rgb(34, 28, 90);;
+    background-repeat: repeat-x;
     background-position: center center;
     background-size: auto;
     z-index: 5;
@@ -801,7 +804,7 @@ a.video-popup-holder:hover img.popup-play
 
 #skills
 {
-    background-color: rgb(34, 28, 90);
+    background-color: rgb(34, 28, 90););
     background-repeat: no-repeat;
     background-position: left top;
     background-size: 100%;
@@ -878,7 +881,7 @@ a.video-popup-holder:hover img.popup-play
 
 #contact
 {
-    background-color: rgb(34, 28, 90);
+    background-color: rgb(34, 28, 90););
     background-repeat: no-repeat;
     background-position: center top;
     background-size: auto;
@@ -1093,7 +1096,6 @@ footer
 #portfolio-1
 {
     background-color: #221c5a;
-    background-image:url("demo-images/background_img_05b.jpg");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: auto;
@@ -1102,7 +1104,8 @@ footer
 #portfolio-2
 {
 
-    background-color: #221c5a;   background-repeat: no-repeat;
+    background-color: #221c5a;
+    background-repeat: no-repeat;
     background-position: left top;
     background-size: 100% auto;
 }
