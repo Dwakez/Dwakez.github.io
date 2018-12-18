@@ -604,8 +604,8 @@ div.pp_default .pp_loaderIcon
 
 .member-name
 {
-    line-height: 40px;
-    font-size: 20px;
+    line-height: 26px;
+    font-size: 70px;
     font-weight: 700;
     padding: 0;
 }
@@ -613,7 +613,7 @@ div.pp_default .pp_loaderIcon
 .member-position
 {
     line-height: 16px;
-    font-size: 14px;
+    font-size: 40px;
     padding-bottom: 50px;
     color: #ee87a4;
     letter-spacing: 4px;
