@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+
 body
 {
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
+    font-family: "Kanit", "Helvetica", "Arial", sans-serif;
     color: #23214c;
 }
 
@@ -52,6 +55,11 @@ body a:hover
     max-height: 100%;
     width: auto;
     height: auto;
+}
+
+.card-center
+{
+    padding: 0 12.5%;
 }
 
 .full-width
@@ -270,7 +278,7 @@ body a:hover
 
 h1.big-title
 {
-    font-size: 50px;
+    font-size: 65px;
     font-weight: 700;
     line-height: 100%;
     padding-top: 100px;
@@ -288,7 +296,7 @@ h1.big-title
 
 .title-desc
 {
-    font-size: 22px;
+    font-size: 30px;
     line-height: 26px;
     max-width: 666px;
     margin: 0 auto;
@@ -653,7 +661,7 @@ div.pp_default .pp_loaderIcon
     width: 110px;
     font-size: 48px;
     font-weight: 900;
-    color: #32db89;
+    color: #81D4FA;
 }
 
 .blog-item-holder .info
@@ -675,6 +683,7 @@ div.pp_default .pp_loaderIcon
     display: inline-block;
     width: 325px;
     padding: 0;
+    margin-top: 14px;
     vertical-align: top;
     line-height: 0;
 }
@@ -1129,7 +1138,7 @@ footer
 .single-portfolio .x-close
 {
     top: -60px;
-    right: -60px;
+    right: 0px;
     background-color: #26276d;
     line-height: 0;
     font-size: 0;
@@ -1139,7 +1148,7 @@ footer
 
 .single-portfolio .x-close img
 {
-    opacity: 0.4;
+    opacity: 0.45;
     transition: opacity .2s linear;
     width: 30px;
     height: 30px;
@@ -1222,10 +1231,11 @@ footer
     .section-title-holder h2
     {
         font-size: 80px;
-        width: 177px;
         line-height: 66px;
+        width: 225px;
+        overflow-wrap: break-word;
         margin-top: 25px;
-        margin-left: 75px;
+        margin-left: 3%;
     }
 
     .section-content-holder.right
