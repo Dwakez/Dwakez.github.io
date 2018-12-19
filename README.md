@@ -1,2 +1,2 @@
 # Whoops, You are not suppose to be here.
-[Click Me!](https://dwakez.github.io/web, "To website")
+[Click Me!](https://dwakez.github.io/web "To website")
